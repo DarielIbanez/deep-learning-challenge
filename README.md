@@ -1,1 +1,4 @@
-# deep-learning-challenge
+# Deep-Learning-Challenge Report
+In this analysis there were three layers total for each model after applying Neural Networks. The number of hidden nodes were dictated by the features. 477 parameters were createdby a three-layer training model. The first attempt was over 73% accuracy wich was under desired 75% but not too was off.
+For the optimization, the second attempt with the "NAME" column in the dataset, achived an accuracy of almost 79%. This is 4% over the target 75% eith 3,298 parameters.
+Multiple layers should be used for deep learning models since it learns how to predict abd classify information based on computer filtering inputs throught layers.
